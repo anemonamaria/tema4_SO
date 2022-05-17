@@ -1,0 +1,21 @@
+Moraru Anemona Maria
+333 CC
+MAI 2022
+
+Tema 4 SO ~ Planificator de Thread-uri
+
+Organizare:
+- am realizat o structura pentru scheduler si am initializat-o in so_init
+- pentru so_end verific daca scheduler-ul a mai fost sau nu initializat inainte
+
+Implementare:
+- tema este implementata in proportii mici
+
+Cum se compileaza si cum se ruleaza?:
+- Cu ajutorul Makefile-ului
+
+Bibliografie:
+- Laboratoare SO.
+
+Git:
+- nu a fost cazul.
